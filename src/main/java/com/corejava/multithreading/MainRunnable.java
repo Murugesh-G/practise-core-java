@@ -1,4 +1,4 @@
-package com.multithreading;
+package com.corejava.multithreading;
 
 public class MainRunnable {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.multithreading;
+package com.corejava.multithreading;
 
 public class DeadLockExample {
     static Object objA = new Object();

@@ -1,4 +1,4 @@
-package com.multithreading;
+package com.corejava.multithreading;
 
 public class SingletonClass {
     private static volatile SingletonClass obj = null;
